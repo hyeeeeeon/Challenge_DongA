@@ -7,7 +7,7 @@
 
 - **1주차**: 프로젝트 목표 및 요구사항 정의
     - 주요 목표 설정: 예측 정확도, 시스템 기능 등
-    - 데이터셋 선정: Kaggle의  데이터셋 활용
+    - 데이터셋 선정: Kaggle의 Predictive Analytics for Customer Churn 데이터셋 활용
     - 작업 환경 구성: Python, VS Code, scikit-learn 설치 및 설정
     - 데이터셋 다운로드 및 초기 탐색
 - **2주차**: 데이터 전처리
