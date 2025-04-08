@@ -1,6 +1,5 @@
 # Kaggle Dataset <br> : Predictive Analytics for Customer Churn
-> url : https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset/data
-<br>
+> url : https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset/data <br>
 > file : "test.csv", "train.csv", "data_descriptions.csv"
 
 ## Content
