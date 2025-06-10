@@ -1,17 +1,19 @@
 project/
 
-├─ data/
+├─ Data/
 
-│   ├─ churn_processed.csv
+│   ├─ Preprocessing_train.csv
 
-│   └─ test_data.csv
+|   ├─ train.csv (전처리 전 데이터 셋 원본)
 
-├─ model/
+│   └─ test.csv
+
+├─ Model/
 
 │   └─ logistic_model.pkl
 
-├─ results/
+├─ Results/
 
 │   └─ high_risk_customers.csv
 
-├─ churn_predict.py
+├─ modeling.py
