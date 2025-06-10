@@ -1,0 +1,6 @@
+.env
+/venv
+*.pkl
+/Results
+/Model
+/Data
