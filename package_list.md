@@ -6,8 +6,10 @@ scikit-learn
 dotenv
 flask
 streamlit
+matplotlib
 ---------
 이 패키지들 따라옴
 os
 joblib
 request
+ 
