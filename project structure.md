@@ -1,11 +1,17 @@
-customer_churn_project/
-│
+project/
+
 ├─ data/
-│   └─ train.csv
-│
+
+│   ├─ churn_processed.csv
+
+│   └─ test_data.csv
+
 ├─ model/
-│   └─ best_model.pkl
-│
-├─ churn_train.py      ← 모델 학습 및 저장
-├─ churn_api.py        ← Flask API
-└─ requirements.txt
+
+│   └─ logistic_model.pkl
+
+├─ results/
+
+│   └─ high_risk_customers.csv
+
+├─ churn_predict.py
