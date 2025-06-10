@@ -1,6 +1,6 @@
+venv/
 .env
-/venv
+__pycache__/
+*.csv
+.streamlit/
 *.pkl
-/Results
-/Model
-/Data
