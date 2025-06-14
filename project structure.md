@@ -1,5 +1,9 @@
 project/
 
+├─ APP/
+
+│   └─ app.y
+
 ├─ Data/
 
 │   ├─ Preprocessing_train.csv
@@ -15,6 +19,16 @@ project/
 ├─ Results/
 
 │   └─ high_risk_customers.csv
+
+├─ venv/
+
+├─ .bat
+
+├─ .env
+
+├─ .gitignore
+
+├─ streamlit_app.py
 
 ├─ modeling.py
 
