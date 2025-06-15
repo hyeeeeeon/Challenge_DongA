@@ -31,7 +31,7 @@
     - Random Forest, Gradient Boosting, XGBoost 등 다양한 모델 시도
     - Hyperparameter Tuning으로 성능 최적화
 - **6주차**: 모델 성능 평가 및 선택
-    - 최종 모델 선정(예: XGBoost)
+    - 최종 모델 선정 : Logistic Regression
     - 혼동 행렬 및 ROC-AUC 점수를 통해 모델 성능 분석
 - **7주차**: 교차 검증 및 테스트
     - 교차 검증(k-fold)으로 일반화 성능 확인
